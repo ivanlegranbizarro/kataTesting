@@ -1,11 +1,10 @@
 <?php
 
-use Jugador;
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
 
 // Testear si se instancia
-// Testear si funciona el método moverse
+// Testear si funciona el método moverse (que es común a todas las clases)
 // Testear si funcionan los métodos particulares de cada tipo de jugador
 
 
